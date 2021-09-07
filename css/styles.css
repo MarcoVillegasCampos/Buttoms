@@ -1,0 +1,58 @@
+#Search{
+    background-color: rgb(238, 238, 238);
+    color: rgb(129, 214, 203);
+    padding: 10px 20px;
+    border-radius: 40px;
+    border-color:rgb(104, 243, 224);
+    position: inline;
+    display: block;
+    margin: 20px;
+    border-style:solid;
+
+
+
+
+
+
+
+}
+#Plus{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:rgb(104, 243, 224) ;
+    color: white;
+    font-size: 20px;
+    border-color: white;
+    border-bottom-color:rgb(104, 243, 224) ;
+    border-style: none;
+    
+
+
+}
+
+
+#Createaccount{
+    display: block;
+    margin: 20px;
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 0%;
+    background-color:rgb(23, 38, 247) ;
+    color: white;
+    border-width: 3px;
+    border-style:solid;
+    box-shadow: 10px 5px 3px black;
+
+
+    
+
+
+}
+
+button{
+position: relative;
+
+}
